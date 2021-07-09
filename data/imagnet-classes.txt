@@ -1,0 +1,1000 @@
+tench 鯉魚類淡水魚
+goldfish 金魚
+great white shark 大白鯊
+tiger shark 虎鯊
+hammerhead 鎚頭鯊
+electric ray 電魟
+stingray 魟魚
+cock 公雞
+hen 母雞
+ostrich 鴕鳥
+brambling 燕雀
+goldfinch 金翅雀
+house finch 家朱雀
+junco 雪鳥
+indigo bunting 靛藍彩鵐
+American robin 旅鶇
+bulbul 夜鶯
+jay 松鴉
+magpie 喜鵲
+chickadee 山雀
+water ouzel 河烏
+kite 鳶（猛禽）
+bald eagle 白頭海鵰
+vulture 禿鷲
+great grey owl 烏林鴞
+European fire salamander 歐洲火蠑螈
+common newt 普通蠑螈
+eft 水蜥
+spotted salamander 斑點蠑螈
+axolotl 墨西哥鈍口螈
+bullfrog 牛蛙
+tree frog 樹蛙
+tailed frog 尾蟾蜍
+loggerhead turtle 紅海龜
+leatherback turtle 皮革龜
+mud turtle 泥龜
+terrapin 淡水龜
+box turtle 箱龜
+banded gecko 帶狀壁虎
+common iguana 普通鬣蜥
+American chameleon 美國變色龍
+whiptail 鞭尾蜥蜴
+agama 飛龍科蜥蜴
+frilled lizard 褶邊蜥蜴
+alligator lizard 鱷魚蜥蜴
+Gila monster 毒蜥
+green lizard 綠蜥蜴
+African chameleon 非洲變色龍
+Komodo dragon 科莫多蜥蜴
+African crocodile 尼羅河鱷魚
+American alligator 鱷魚
+triceratops 三角龍
+thunder snake 蠕蟲蛇
+ringneck snake 環頸蛇
+hognose snake 希臘蛇
+green snake 草蛇
+king snake 國王蛇
+garter snake 草蛇
+water snake 水蛇
+vine snake 藤蛇
+night snake 夜蛇
+boa constrictor 大蟒蛇
+rock python 非洲岩蟒
+Indian cobra 印度眼鏡蛇
+green mamba 綠曼巴
+sea snake 海蛇
+horned viper 角腹蛇
+diamondback 菱紋響尾蛇
+sidewinder 角響尾蛇
+trilobite 三葉蟲
+harvestman 盲蜘蛛
+scorpion 蠍子
+black and gold garden spider 黑金花園蜘蛛
+barn spider 穀倉蜘蛛
+garden spider 花園蜘蛛
+black widow 黑寡婦蜘蛛
+tarantula 狼蛛
+wolf spider 狩獵蜘蛛
+tick 壁蝨
+centipede 蜈蚣
+black grouse 黑松雞
+ptarmigan 雷鳥
+ruffed grouse 披肩榛雞
+prairie chicken 草原松雞
+peacock 孔雀
+quail 鵪鶉
+partridge 鷓鴣
+African grey 非洲灰鸚鵡
+macaw 金剛鸚鵡
+sulphur-crested cockatoo 硫冠鸚鵡
+lorikeet 短尾鸚鵡
+coucal 鴉鵑
+bee eater 蜂虎
+hornbill 犀鳥
+hummingbird 蜂鳥
+jacamar 鶲鴷
+toucan 鵎鵼（巨嘴鳥）
+drake 野鴨
+red-breasted merganser 紅胸秋沙
+goose 鵝
+black swan 黑天鵝
+tusker 大象
+echidna 針鼴鼠
+platypus 鴨嘴獸
+wallaby 沙袋鼠
+koala 考拉熊
+wombat 袋熊
+jellyfish 水母
+sea anemone 海葵
+brain coral 腦珊瑚
+flatworm 扁形蟲扁蟲
+nematode 蛔蟲
+conch 海螺
+snail 蝸牛
+slug 鼻涕蟲
+sea slug 海蔘
+chiton 石鱉
+chambered nautilus 鸚鵡螺
+Dungeness crab 珍寶蟹
+rock crab 石蟹
+fiddler crab 招潮蟹
+king crab 阿拉斯加帝王蟹
+American lobster 緬因州龍蝦
+spiny lobster 大螯蝦
+crayfish 小龍蝦
+hermit crab 寄居蟹
+isopod 等足目動物(明蝦和螃蟹近親)
+white stork 白鸛
+black stork 黑鸛
+spoonbill 琵鷺
+flamingo 紅鸛
+little blue heron 小藍鷺
+American egret 大白鷺
+bittern 麻鷺
+crane 鶴
+limpkin 秧鶴
+European gallinule 紫水雞
+American coot 秧雞
+bustard 鴇
+ruddy turnstone 翻石鷸
+red-backed sandpiper 黑腹濱鷸
+redshank 赤足鷸
+dowitcher 半蹼鷸
+oystercatcher 蠣鴴
+pelican 鵜鶘
+king penguin 國王企鵝
+albatross 信天翁
+grey whale 灰鯨
+killer whale 虎鯨
+dugong 海牛
+sea lion 海獅
+Chihuahua 吉娃娃
+Japanese spaniel 日本獵犬
+Maltese dog 馬爾濟斯犬
+Pekinese 獅子狗
+Shih-Tzu 西施犬
+Blenheim spaniel 布萊尼姆獵犬
+papillon 巴比狗
+toy terrier 玩具犬
+Rhodesian ridgeback 羅得西亞長背獵狗
+Afghan hound 阿富汗獵犬
+basset 獵犬
+beagle 獵兔犬
+bloodhound 偵探犬
+bluetick 藍色快狗
+black-and-tan coonhound 黑褐獵浣熊犬
+Walker hound 沃克獵犬
+English foxhound 英國獵狐犬
+redbone 美洲赤狗
+borzoi 俄羅斯獵狼犬
+Irish wolfhound 愛爾蘭獵狼犬
+Italian greyhound 意大利灰狗
+whippet 惠比特犬
+Ibizan hound 依比沙獵犬
+Norwegian elkhound 挪威獵犬
+otterhound 水獺獵犬
+Saluki 瞪羚獵犬
+Scottish deerhound 獵鹿犬
+Weimaraner 威瑪獵犬
+Staffordshire bullterrier 斯塔福德郡鬥牛梗
+American Staffordshire terrier 鬥牛梗
+Bedlington terrier 貝德靈頓梗
+Border terrier 邊境梗
+Kerry blue terrier 凱麗藍梗
+Irish terrier 愛爾蘭梗
+Norfolk terrier 諾福克梗
+Norwich terrier 諾維奇梗
+Yorkshire terrier 約克郡梗
+wire-haired fox terrier 剛毛獵狐梗
+Lakeland terrier 萊克蘭梗
+Sealyham terrier 西里漢梗
+Airedale 艾爾谷犬
+cairn 凱恩梗
+Australian terrier 澳大利亞梗
+Dandie Dinmont 丹迪丁蒙梗
+Boston bull 波士頓梗
+miniature schnauzer 迷你雪納瑞犬
+giant schnauzer 巨型雪納瑞犬
+standard schnauzer 標準雪納瑞犬
+Scotch terrier 蘇格蘭梗
+Tibetan terrier 菊花狗
+silky terrier 絲毛梗
+soft-coated wheaten terrier 軟毛麥色梗
+West Highland white terrier 西高地白梗
+Lhasa 拉薩阿普索犬
+flat-coated retriever 平毛尋回犬
+curly-coated retriever 捲毛尋回犬
+golden retriever 金毛獵犬
+Labrador retriever 拉布拉多獵犬
+Chesapeake Bay retriever 乞沙比克獵犬
+German short-haired pointer 德國短毛獵犬
+vizsla 維茲拉犬
+English setter 英國諜犬
+Irish setter 紅色獵犬
+Gordon setter 戈登雪達犬
+Brittany spaniel 布列塔尼犬獵犬
+clumber 黃毛獵犬
+English springer 英國史賓格犬
+Welsh springer spaniel 威爾士史賓格犬
+cocker spaniel 英國可卡犬
+Sussex spaniel 薩塞克斯獵犬
+Irish water spaniel 愛爾蘭水獵犬
+kuvasz 哥威斯犬
+schipperke 舒柏奇犬
+groenendael 比利時牧羊犬
+malinois 馬裏努阿犬
+briard 伯瑞犬
+kelpie 凱爾皮犬
+komondor 匈牙利牧羊犬
+Old English sheepdog 老英國牧羊犬
+Shetland sheepdog 喜樂蒂牧羊犬
+collie 牧羊犬
+Border collie 邊境牧羊犬
+Bouvier des Flandres 法蘭德斯牧牛狗
+Rottweiler 羅特韋爾犬
+German shepherd 阿爾薩斯
+Doberman 杜賓犬
+miniature pinscher 迷你杜賓犬
+Greater Swiss Mountain dog 大瑞士山地犬
+Bernese mountain dog 伯恩山犬
+Appenzeller 阿彭策爾山犬
+EntleBucher 恩特布山犬
+boxer 拳師狗
+bull mastiff 鬥牛獒
+Tibetan mastiff 藏獒
+French bulldog 法國鬥牛犬
+Great Dane 大丹犬
+Saint Bernard 聖伯納德狗
+Eskimo dog 哈士奇
+malamute 阿拉斯加愛斯基摩狗
+Siberian husky 哈士奇
+dalmatian 教練車狗
+affenpinscher 獅毛狗
+basenji 巴辛吉狗
+pug 獅子狗
+Leonberg 萊昂貝格狗
+Newfoundland 紐芬蘭島狗
+Great Pyrenees 大白熊犬
+Samoyed 薩摩耶犬
+Pomeranian 博美犬
+chow 鬆獅
+keeshond 荷蘭卷尾獅毛狗
+Brabancon griffon 布魯塞爾格林芬犬
+Pembroke 彭布洛克威爾士科基犬
+Cardigan 威爾士柯基犬
+toy poodle 玩具貴賓犬
+miniature poodle 迷你貴賓犬
+standard poodle 標準貴賓犬
+Mexican hairless 墨西哥無毛犬
+timber wolf 灰狼
+white wolf 北極狼
+red wolf 犬犬魯弗斯
+coyote 郊狼
+dingo 澳大利亞野犬
+dhole 豺
+African hunting dog 土狼犬
+hyena 鬣狗
+red fox 紅狐狸
+kit fox 沙狐
+Arctic fox 白狐狸
+grey fox 灰狐狸
+tabby 虎斑貓
+tiger cat 虎貓
+Persian cat 波斯貓
+Siamese cat 
+Egyptian cat 埃及貓
+cougar 美洲豹
+lynx 山貓
+leopard 豹子
+snow leopard 雪豹
+jaguar 美洲虎
+lion 獅子
+tiger 老虎
+cheetah 獵豹
+brown bear 棕熊
+American black bear 美洲黑熊
+ice bear 北極熊
+sloth bear 懶熊
+mongoose 貓鼬
+meerkat 海貓
+tiger beetle 虎甲蟲
+ladybug 瓢蟲
+ground beetle 土鱉蟲
+long-horned beetle 天牛
+leaf beetle 龜甲蟲
+dung beetle 糞甲蟲
+rhinoceros beetle 犀牛甲蟲
+weevil 象甲
+fly 蒼蠅
+bee 蜜蜂
+ant 螞蟻
+grasshopper 蚱蜢
+cricket 蟋蟀
+walking stick 竹節蟲
+cockroach 蟑螂
+mantis 螳螂
+cicada 蟬
+leafhopper 葉蟬
+lacewing 草蜻蛉
+dragonfly 蜻蜓
+damselfly 蜻蛉
+admiral 優紅蛺蝶
+ringlet 小環蝴蝶
+monarch 大斑蝶
+cabbage butterfly 菜粉蝶
+sulphur butterfly 白蝴蝶
+lycaenid 灰蝶
+starfish 海星
+sea urchin 海膽
+sea cucumber 海黃瓜
+wood rabbit 野兔
+hare 兔
+Angora 安哥拉兔
+hamster 倉鼠
+porcupine 
+fox squirrel 黑松鼠
+marmot 土撥鼠
+beaver 海狸
+guinea pig 豚鼠
+sorrel 栗色馬
+zebra 斑馬
+hog 豬
+wild boar 野豬
+warthog 疣豬
+hippopotamus 河馬
+ox 牛
+water buffalo 亞洲水牛
+bison 野牛
+ram 公羊
+bighorn 洛磯山大角羊
+ibex 山羊
+hartebeest 狷羚
+impala 黑斑羚
+gazelle 瞪羚
+Arabian camel 駱駝
+llama 駱駝
+weasel 黃鼠狼
+mink 水貂
+polecat 臭貓
+black-footed ferret 黑足鼬
+otter 水獺
+skunk 木貓
+badger 獾
+armadillo 犰狳
+three-toed sloth 樹懶
+orangutan 婆羅洲猩猩
+gorilla 大猩猩
+chimpanzee 黑猩猩
+gibbon 長臂猿
+siamang 合趾猿
+guenon 長尾猴
+patas 赤猴
+baboon 狒狒
+macaque 獼猴
+langur 白頭葉猴
+colobus 疣猴
+proboscis monkey 長鼻猴
+marmoset 狨（美洲產小型長尾猴）
+capuchin 捲尾猴
+howler monkey 吼猴
+titi 伶猴
+spider monkey 蜘蛛猴
+squirrel monkey 松鼠猴
+Madagascar cat 鼠狐猴
+indri 馬達加斯加大狐猴
+Indian elephant 亞洲象
+African elephant 非洲象
+lesser panda 小熊貓
+giant panda 大熊貓
+barracouta 杖魚
+eel 鰻魚
+coho 銀鮭魚
+rock beauty 三色刺蝶魚
+anemone fish 海葵魚
+sturgeon 鱘魚
+gar 雀鱔
+lionfish 獅子魚
+puffer 河豚
+abacus 算盤
+abaya 長袍
+academic gown 學位袍
+accordion 手風琴
+acoustic guitar 原聲吉他
+aircraft carrier 航空母艦
+airliner 客機
+airship 飛艇
+altar 祭壇
+ambulance 救護車
+amphibian 水陸兩用車
+analog clock 模擬時鐘
+apiary 蜂房
+apron 圍裙
+ashcan 垃圾桶
+assault rifle 槍
+backpack 揹包
+bakery 
+balance beam 平衡木
+balloon 熱氣球
+ballpoint 圓珠筆
+Band Aid 創可貼
+banjo 班卓琴
+bannister 樓梯扶手
+barbell 槓鈴
+barber chair 理髮師的椅子
+barbershop 理髮店
+barn 牲口棚
+barometer 晴雨表
+barrel 圓筒
+barrow 手推車
+baseball 棒球
+basketball 籃球
+bassinet 嬰兒牀
+bassoon 低音管
+bathing cap 游泳帽
+bath towel 沐浴毛巾
+bathtub 澡盆
+beach wagon 旅行車
+beacon 燈塔
+beaker 高腳杯
+bearskin 熊皮高帽
+beer bottle 啤酒瓶
+beer glass 啤酒杯
+bell cote 鐘塔
+bib （小兒用的）圍嘴
+bicycle-built-for-two 
+bikini 比基尼
+binder 裝訂冊
+binoculars 雙筒望遠鏡
+birdhouse 鳥舍
+boathouse 船庫
+bobsled 雪橇
+bolo tie 飾釦式領帶
+bonnet 闊邊女帽
+bookcase 書櫥
+bookshop 書攤
+bottlecap 瓶蓋
+bow 弓箭
+bow tie 蝴蝶結領結
+brass 銅製牌位
+brassiere 奶罩
+breakwater 海堤
+breastplate 鎧甲
+broom 掃帚
+bucket 桶
+buckle 釦環
+bulletproof vest 防彈背心
+bullet train 子彈頭列車
+butcher shop 肉菜市場
+cab 出租車
+caldron 大鍋
+candle 蠟燭
+cannon 大炮
+canoe 獨木舟
+can opener 開罐器
+cardigan 開衫
+car mirror 車鏡
+carousel 旋轉木馬
+carpenter's kit 工具包
+carton 紙箱
+car wheel 車輪
+cash machine 自動取款機
+cassette 盒式錄音帶
+cassette player 卡帶播放器
+castle 城堡
+catamaran 雙體船
+CD player CD播放器
+cello 大提琴
+cellular telephone 手機
+chain 鐵鏈
+chainlink fence 圍欄
+chain mail 鍊甲
+chain saw 油鋸
+chest 箱子
+chiffonier 洗臉檯
+chime 鑼
+china cabinet 中國櫥櫃
+Christmas stocking 聖誕襪
+church 教堂建築
+cinema 劇場
+cleaver 菜刀
+cliff dwelling 懸崖屋
+cloak 斗篷
+clog 木鞋
+cocktail shaker 雞尾酒調酒器
+coffee mug 咖啡杯
+coffeepot 咖啡壺
+coil 螺旋結構（樓梯）
+combination lock 組合鎖
+computer keyboard 鍵盤
+confectionery 糖果店
+container ship 集裝箱船
+convertible 敞篷車
+corkscrew 瓶螺桿
+cornet 喇叭
+cowboy boot 牛仔靴
+cowboy hat 牛仔帽
+cradle 搖籃
+crane 起重機
+crash helmet 頭盔
+crate 板條箱
+crib 小兒牀
+Crock Pot 砂鍋
+croquet ball 槌球
+crutch 柺杖
+cuirass 胸甲
+dam 堤防
+desk 書桌
+desktop computer 臺式電腦
+dial telephone 有線電話
+diaper 尿布溼
+digital clock 數字時鐘
+digital watch 數字手錶
+dining table 餐桌板
+dishrag 抹布
+dishwasher 洗碟機
+disk brake 盤式制動器
+dock 碼頭設施
+dogsled 狗拉雪橇
+dome 圓頂
+doormat 墊子
+drilling platform 海上鑽井
+drum 鼓膜
+drumstick 鼓槌
+dumbbell 啞鈴
+Dutch oven 荷蘭烤箱
+electric fan 鼓風機
+electric guitar 電吉他
+electric locomotive 電力機車
+entertainment center 電視櫃
+envelope 信封
+espresso maker 濃縮咖啡機
+face powder 撲面粉
+feather boa 女用長圍巾
+file 檔案櫃
+fireboat 消防船
+fire engine 消防車
+fire screen 火爐欄
+flagpole 旗杆
+flute 長笛
+folding chair 摺疊椅
+football helmet 橄欖球頭盔
+forklift 叉車
+fountain 噴泉
+fountain pen 鋼筆
+four-poster 有四根帷柱的牀
+freight car 運貨車廂
+French horn 喇叭
+frying pan 煎鍋
+fur coat 裘皮大衣
+garbage truck 垃圾車
+gasmask 呼吸器
+gas pump 汽油泵
+goblet 高腳杯
+go-kart 卡丁車
+golf ball 高爾夫球
+golfcart 高爾夫球車
+gondola 狹長小船
+gong 鑼
+gown 禮服
+grand piano 鋼琴
+greenhouse 苗圃
+grille 散熱器格柵
+grocery store 食品市場
+guillotine 斷頭臺
+hair slide 小發夾
+hair spray 頭髮噴霧
+half track 半履帶裝甲車
+hammer 錘子
+hamper 大籃子
+hand blower 吹風機
+hand-held computer 手提電腦
+handkerchief 手帕
+hard disc 硬盤
+harmonica 口風琴
+harp 豎琴
+harvester 收割機
+hatchet 斧頭
+holster 手槍皮套
+home theater 家庭影院
+honeycomb 蜂窩
+hook 鉤爪
+hoopskirt 襯裙
+horizontal bar 單槓
+horse cart 馬車
+hourglass 沙漏
+iPod iPod
+iron 熨斗
+jack-o'-lantern 南瓜燈籠
+jean 藍色牛仔褲
+jeep 吉普車
+jersey T恤
+jigsaw puzzle 拼圖
+jinrikisha 人力車
+joystick 操縱桿
+kimono 和服
+knee pad 護膝
+knot 蝴蝶結
+lab coat 實驗室外套
+ladle 長柄勺
+lampshade 燈罩
+laptop 筆記本電腦
+lawn mower 割草機
+lens cap 鏡頭蓋
+letter opener 裁紙刀
+library 圖書館
+lifeboat 救生艇
+lighter 打火機
+limousine 豪華轎車
+liner 遠洋班輪
+lipstick 口紅
+Loafer 平底便鞋
+lotion 洗劑
+loudspeaker 揚聲器
+loupe 放大鏡
+lumbermill 鋸木廠
+magnetic compass 磁羅盤
+mailbag 郵袋
+mailbox 信箱
+maillot 女游泳衣
+maillot 有肩帶浴衣
+manhole cover 窨井蓋
+maraca 沙球（一種打擊樂器）
+marimba 馬林巴木琴
+mask 面膜
+matchstick 火柴
+maypole 花柱
+maze 迷宮
+measuring cup 量杯
+medicine chest 藥箱
+megalith 巨石結構
+microphone 麥克風
+microwave 微波爐
+military uniform 軍裝
+milk can 奶桶
+minibus 迷你巴士
+miniskirt 迷你裙
+minivan 麪包車
+missile 導彈
+mitten 連指手套
+mixing bowl 攪拌鉢
+mobile home 活動房屋（由汽車拖拉的）
+Model T T型發動機小汽車
+modem 調制解調器
+monastery 修道院
+monitor 顯示器
+moped 電瓶車
+mortar 砂漿
+mortarboard 學士
+mosque 清真寺
+mosquito net 蚊帳
+motor scooter 摩托車
+mountain bike 山地自行車
+mountain tent 登山帳
+mouse 電腦鼠標
+mousetrap 捕鼠器
+moving van 搬家車
+muzzle 口套
+nail 釘子
+neck brace 頸託
+necklace 項鍊
+nipple 乳頭（瓶）
+notebook 筆記本電腦
+obelisk 方尖碑
+oboe 雙簧管
+ocarina 卵形笛
+odometer 里程錶
+oil filter 濾油器
+organ 管風琴
+oscilloscope 示波器
+overskirt 罩裙
+oxcart 牛車
+oxygen mask 氧氣面罩
+packet 包裝
+paddle 船槳
+paddlewheel 槳輪
+padlock 扣鎖
+paintbrush 畫筆
+pajama 睡衣
+palace 宮殿
+panpipe 鳴管
+paper towel 紙巾
+parachute 降落傘
+parallel bars 雙槓
+park bench 公園長椅
+parking meter 停車計時器
+passenger car 教練車
+patio 陽臺
+pay-phone 付費電話
+pedestal 基腳
+pencil box 鉛筆盒
+pencil sharpener 卷筆刀
+perfume 香水（瓶）
+Petri dish 培養皿
+photocopier 複印機
+pick 撥子
+pickelhaube 尖頂頭盔
+picket fence 柵欄
+pickup 皮卡車
+pier 橋墩
+piggy bank 存錢罐
+pill bottle 藥瓶
+pillow 枕頭
+ping-pong ball 乒乓球
+pinwheel 風車
+pirate 海盜船
+pitcher 水罐
+plane 木工刨
+planetarium 天文館
+plastic bag 塑料袋
+plate rack 板架
+plow 犁型剷雪機
+plunger 手壓皮碗泵
+Polaroid camera 寶麗來相機
+pole 電線杆
+police van 巡邏車
+poncho 雨披
+pool table 檯球桌
+pop bottle 充氣飲料瓶
+pot 花盆
+potter's wheel 陶工旋盤
+power drill 電鑽
+prayer rug 地毯
+printer 打印機
+prison 監獄
+projectile 導彈
+projector 投影儀
+puck 冰球
+punching bag 吊球
+purse 錢包
+quill 羽管筆
+quilt 被子
+racer 賽車
+racket 球拍
+radiator 散熱器
+radio 收音機
+radio telescope 無線電反射器
+rain barrel 雨桶
+recreational vehicle 房車
+reel 捲筒
+reflex camera 反射式照相機
+refrigerator 冰櫃
+remote control 遙控器
+restaurant 食堂
+revolver 左輪手槍
+rifle 步槍
+rocking chair 搖椅
+rotisserie 電轉烤肉架
+rubber eraser 橡皮
+rugby ball 橄欖球
+rule 直尺
+running shoe 跑步鞋
+safe 保險櫃
+safety pin 安全別針
+saltshaker 鹽瓶（調味用）
+sandal 涼鞋
+sarong 圍裙
+sax 薩克斯管
+scabbard 劍鞘
+scale 稱重機
+school bus 校車
+schooner 帆船
+scoreboard 記分牌
+screen 屏幕
+screw 螺絲
+screwdriver 螺絲刀
+seat belt 安全帶
+sewing machine 縫紉機
+shield 盾牌
+shoe shop 鞋店
+shoji 障子
+shopping basket 購物籃
+shopping cart 購物車
+shovel 鐵鍬
+shower cap 浴帽
+shower curtain 浴簾
+ski 滑雪板
+ski mask 滑雪面罩
+sleeping bag 睡袋
+slide rule 滑尺
+sliding door 滑動門
+slot 角子老虎機
+snorkel 潛水通氣管
+snowmobile 雪橇
+snowplow 掃雪機
+soap dispenser 皁液器
+soccer ball 足球
+sock 襪子
+solar dish 太陽能爐
+sombrero 寬邊帽
+soup bowl 湯碗
+space bar 空格鍵
+space heater 空間加熱器
+space shuttle 航天飛機
+spatula 鏟（攪拌或塗敷用的）
+speedboat 快艇
+spider web 蜘蛛網
+spindle 紗錠
+sports car 跑車
+spotlight 聚光燈
+stage 舞臺
+steam locomotive 蒸汽機車
+steel arch bridge 鋼拱橋
+steel drum 鋼滾筒
+stethoscope 聽診器
+stole 女用披肩
+stone wall 石頭牆
+stopwatch 秒錶
+stove 火爐
+strainer 過濾器
+streetcar 電車
+stretcher 擔架
+studio couch 沙發牀
+stupa 佛塔
+submarine 潛水艇
+suit 衣服
+sundial 日晷
+sunglass 太陽鏡
+sunglasses 墨鏡
+sunscreen 防曬劑
+suspension bridge 懸索橋
+swab 拖把
+sweatshirt 運動衫
+swimming trunks 游泳褲
+swing 鞦韆
+switch 電器開關
+syringe 注射器
+table lamp 檯燈
+tank 裝甲戰鬥車輛
+tape player 磁帶播放器
+teapot 茶壺
+teddy 泰迪熊
+television 電視
+tennis ball 網球
+thatch 茅草屋頂
+theater curtain 劇院的帷幕
+thimble 頂針
+thresher 脫粒機
+throne 寶座
+tile roof 瓦屋頂
+toaster 烤麪包機
+tobacco shop 菸草
+toilet seat 馬桶
+torch 火炬
+totem pole 圖騰柱
+tow truck 清障車
+toyshop 玩具店
+tractor 拖拉機
+trailer truck 鉸接式卡車
+tray 托盤
+trench coat 風衣
+tricycle 三輪車
+trimaran 三體船
+tripod 三腳架
+triumphal arch 凱旋門
+trolleybus 無軌電車
+trombone 長號
+tub 浴缸
+turnstile 旋轉式柵門
+typewriter keyboard 打字機鍵盤
+umbrella 傘
+unicycle 獨輪車
+upright 直立式鋼琴
+vacuum 真空吸塵器
+vase 花瓶
+vault 拱頂
+velvet 天鵝絨
+vending machine 自動售貨機
+vestment 祭服
+viaduct 高架橋
+violin 小提琴
+volleyball 排球
+waffle iron 鬆餅機
+wall clock 掛鐘
+wallet 皮夾
+wardrobe 壁櫥
+warplane 軍用飛機
+washbasin 洗手盆
+washer 自動洗衣機
+water bottle 水瓶
+water jug 水壺
+water tower 水塔
+whiskey jug 威士忌壺
+whistle 哨子
+wig 假髮
+window screen 紗窗
+window shade 百葉窗
+Windsor tie 溫莎領帶
+wine bottle 葡萄酒瓶
+wing 飛機
+wok 炒菜鍋
+wooden spoon 木製的勺子
+wool 羊絨
+worm fence 圍欄
+wreck 沉船
+yawl 雙桅船
+yurt 蒙古包
+web site 互聯網網站
+comic book 漫畫
+crossword puzzle 縱橫字謎
+street sign 路標
+traffic light 交通信號燈
+book jacket 書皮
+menu 菜單
+plate 盤子
+guacamole 鱷梨醬
+consomme 清湯
+hot pot 罐燜土豆燒肉
+trifle 蛋糕
+ice cream 冰淇淋
+ice lolly 冰棒
+French loaf 法式麪包
+bagel 百吉餅
+pretzel 椒鹽脆餅
+cheeseburger 芝士漢堡
+hotdog 熱狗
+mashed potato 土豆泥
+head cabbage 結球甘藍
+broccoli 西蘭花
+cauliflower 菜花
+zucchini 綠皮密生西葫蘆
+spaghetti squash 西葫蘆
+acorn squash 小青南瓜
+butternut squash 南瓜
+cucumber 黃瓜
+artichoke 朝鮮薊
+bell pepper 甜椒
+cardoon 刺棘薊
+mushroom 蘑菇
+Granny Smith 綠蘋果
+strawberry 草莓
+orange 橘子
+lemon 檸檬
+fig 無花果
+pineapple 菠蘿
+banana 香蕉
+jackfruit 菠蘿蜜
+custard apple 蛋奶凍蘋果
+pomegranate 石榴
+hay 乾草
+carbonara 烤麪條加乾酪沙司
+chocolate sauce 巧克力糖漿
+dough 麪糰
+meat loaf 肉餅
+pizza 披薩餅
+potpie 餡餅
+burrito 捲餅
+red wine 紅葡萄酒
+espresso 意大利濃咖啡
+cup 杯子
+eggnog 蛋酒
+alp 高山
+bubble 泡泡
+cliff 懸崖
+coral reef 珊瑚礁
+geyser 間歇泉
+lakeside 湖岸
+promontory 海角
+sandbar 沙壩
+seashore 海岸
+valley 峽谷
+volcano 火山
+ballplayer 棒球運動員
+groom 新郎
+scuba diver 潛水員
+rapeseed 油菜
+daisy 雛菊
+yellow lady's slipper 杓蘭
+corn 玉米
+acorn 橡子
+hip 玫瑰果
+buckeye 七葉樹果實
+coral fungus 珊瑚菌
+agaric 木耳
+gyromitra 鹿花菌
+stinkhorn 鬼筆菌
+earthstar 地星
+hen-of-the-woods 多葉奇果菌
+bolete 牛肝菌
+ear 玉米穗
+toilet tissue 衛生紙
